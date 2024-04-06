@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412241990683",
+    "project_id": "nativetinder-ecb0b",
+    "storage_bucket": "nativetinder-ecb0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412241990683:android:a96a3c07ec3a90f9f794be",
+        "android_client_info": {
+          "package_name": "com.nativetinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSJ70e8-5hDdLR7dECqjzVGzV__uDuzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
